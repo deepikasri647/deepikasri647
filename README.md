@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepika Sri!
 
-<!--
-**deepikasri647/deepikasri647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Cloud & DevOps Engineer Career Aspirant
+I am focusing on building reliable, automated infrastructure pipelines and managing robust cloud ecosystem workflows.
 
-Here are some ideas to get you started:
+* 🛠️ **Current Focus:** Leveling up daily through the **#90DaysOfDevOps Challenge**.
+* ☁️ **Cloud Platforms:** Learning and mapping architectures across **AWS** and **Azure**.
+* 💻 **Languages & Tools:** Python, Linux Shell Scripting, Git, GitHub CLI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Highlighted Repositories
+* 🚀 [90DaysOfDevOps](https://github.com/deepikasri647/90DaysOfDevOps) - Daily tracking logs, tasks, and documentation notes.
+* 🛠️ [devops-github-practice](https://github.com/deepikasri647/devops-github-practice) - Combined Git version control reference library sheet.
+
+---
+
+### 🤝 Connect With Me
+* 💼 **LinkedIn:** [Deepika Sri on LinkedIn](https://www.linkedin.com/) *(உங்க ஒரிஜினல் லிங்க் போடுங்க)*
+* 📧 **Email:** deepikasri647@gmail.com
