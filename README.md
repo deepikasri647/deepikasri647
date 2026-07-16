@@ -16,5 +16,5 @@ I am focusing on building reliable, automated infrastructure pipelines and manag
 ---
 
 ### 🤝 Connect With Me
-* 💼 **LinkedIn:** [Deepika Sri on LinkedIn](https://www.linkedin.com/) *(உங்க ஒரிஜினல் லிங்க் போடுங்க)*
-* 📧 **Email:** deepikasri647@gmail.com
+* 💼 **LinkedIn:** www.linkedin.com/in/deepikasri674 
+* 📧 **Email:** deepikasri674@gmail.com
